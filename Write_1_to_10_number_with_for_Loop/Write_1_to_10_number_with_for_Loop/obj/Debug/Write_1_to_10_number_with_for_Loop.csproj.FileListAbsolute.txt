@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Write_1_to_10_number_with_for_Loop\Write_1_to_10_number_with_for_Loop\bin\Debug\Write_1_to_10_number_with_for_Loop.exe.config
+D:\DEV\C#\Practice\Write_1_to_10_number_with_for_Loop\Write_1_to_10_number_with_for_Loop\bin\Debug\Write_1_to_10_number_with_for_Loop.exe
+D:\DEV\C#\Practice\Write_1_to_10_number_with_for_Loop\Write_1_to_10_number_with_for_Loop\bin\Debug\Write_1_to_10_number_with_for_Loop.pdb
+D:\DEV\C#\Practice\Write_1_to_10_number_with_for_Loop\Write_1_to_10_number_with_for_Loop\obj\Debug\Write_1_to_10_number_with_for_Loop.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Write_1_to_10_number_with_for_Loop\Write_1_to_10_number_with_for_Loop\obj\Debug\Write_1_to_10_number_with_for_Loop.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Write_1_to_10_number_with_for_Loop\Write_1_to_10_number_with_for_Loop\obj\Debug\Write_1_to_10_number_with_for_Loop.exe
+D:\DEV\C#\Practice\Write_1_to_10_number_with_for_Loop\Write_1_to_10_number_with_for_Loop\obj\Debug\Write_1_to_10_number_with_for_Loop.pdb
